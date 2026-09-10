@@ -30,7 +30,7 @@ Explorando visão computacional aplicada a alimentos.
 
 [**CataLead**](https://github.com/helo-labs/catalead) · radar de comentários para quem vende pelo Instagram
 
-[**Coffee Insight**](https://github.com/helo-labs/coffee-insight) · análise exploratória de dados de vendas
+[**Coffee Insight**](https://github.com/helo-labs/coffee-insight) e [**Hipnos**](https://github.com/helo-labs/sono-dos-mamiferos) · análise exploratória de dados
 
 <br>
 
