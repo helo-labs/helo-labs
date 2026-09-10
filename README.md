@@ -7,8 +7,8 @@ Trabalho principalmente com IA, dados, automação e desenvolvimento web.
 ## <img src="ic-ferramenta.svg" width="22" alt=""> Com o que eu construo
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="tec-escuro.svg">
-  <img src="tec-claro.svg" alt="AI · DATA · AUTOMATION · WEB. Python, JavaScript, TypeScript, React, Next.js, Vite, FastAPI, pandas, Plotly, Streamlit, SQL, PostgreSQL, OpenAI, Claude, Gemini, Transformers, n8n, Make" width="940">
+  <source media="(prefers-color-scheme: dark)" srcset="tec-escuro-v2.svg">
+  <img src="tec-claro-v2.svg" alt="AI · DATA · AUTOMATION · WEB. Python, JavaScript, TypeScript, React, Next.js, Vite, FastAPI, pandas, Plotly, Streamlit, SQL, PostgreSQL, OpenAI, Claude, Gemini, Transformers, n8n, Make" width="940">
 </picture>
 
 ## <img src="ic-obra.svg" width="22" alt=""> Em desenvolvimento
@@ -34,12 +34,8 @@ Explorando visão computacional aplicada a alimentos.
 
 <br>
 
-[![Explorar todos os repositórios](https://img.shields.io/badge/explorar%20todos%20os%20reposit%C3%B3rios-1F2328?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helo-labs?tab=repositories)
+[![Explorar todos os repositórios](https://img.shields.io/badge/explorar%20todos%20os%20reposit%C3%B3rios-7C5CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helo-labs?tab=repositories)
 
-<sub>
+<sub>EN · I like building things. Sometimes they solve real problems, sometimes they're just ideas I wanted to bring to life.</sub>
 
-EN · I like building things. Sometimes they solve real problems, sometimes they're just ideas I wanted to bring to life.
-<br><br>
-I mainly work with AI, data, automation, and web development.
-
-</sub>
+<sub>I mainly work with AI, data, automation, and web development.</sub>
