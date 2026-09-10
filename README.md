@@ -1,17 +1,17 @@
-# <img src="ic-aceno.svg" width="26" alt=""> Oi, eu sou a Heloisa
+# Oi, eu sou a Heloisa
 
 Gosto de criar coisas. Às vezes elas resolvem problemas reais, às vezes são só uma ideia que eu quis tirar do papel.
 
 Trabalho principalmente com IA, dados, automação e desenvolvimento web.
 
-## <img src="ic-ferramenta.svg" width="22" alt=""> Com o que eu construo
+## Com o que eu construo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="tec-escuro-v2.svg">
   <img src="tec-claro-v2.svg" alt="AI · DATA · AUTOMATION · WEB. Python, JavaScript, TypeScript, React, Next.js, Vite, FastAPI, pandas, Plotly, Streamlit, SQL, PostgreSQL, OpenAI, Claude, Gemini, Transformers, n8n, Make" width="940">
 </picture>
 
-## <img src="ic-obra.svg" width="22" alt=""> Em desenvolvimento
+## Em desenvolvimento
 
 **Pertin**<br>
 Transformando localização em uma informação mais útil para imóveis e hospedagens.
@@ -22,7 +22,7 @@ Extraindo informações estruturadas de relatórios de sustentabilidade.
 **Foodie Vision**<br>
 Explorando visão computacional aplicada a alimentos.
 
-## <img src="ic-lupa.svg" width="22" alt=""> Alguns projetos públicos
+## Alguns projetos públicos
 
 [**Meu HackTown**](https://github.com/helo-labs/meu-hacktown) · planejamento e curadoria para o HackTown 2026
 
