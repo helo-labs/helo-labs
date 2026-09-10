@@ -1,28 +1,28 @@
-# <img src="ic-aceno.svg" width="26" align="center" alt=""> Oi, eu sou a Heloisa
+# <img src="ic-aceno.svg" width="26" alt=""> Oi, eu sou a Heloisa
 
 Gosto de criar coisas. Às vezes elas resolvem problemas reais, às vezes são só uma ideia que eu quis tirar do papel.
 
 Trabalho principalmente com IA, dados, automação e desenvolvimento web.
 
-## <img src="ic-ferramenta.svg" width="22" align="center" alt=""> Com o que eu construo
+## <img src="ic-ferramenta.svg" width="22" alt=""> Com o que eu construo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="tec-escuro.svg">
-  <img src="tec-claro.svg" alt="AI · DATA · AUTOMATION · WEB. Python, JavaScript, TypeScript, React, Next.js, Vite, FastAPI, pandas, Plotly, Streamlit, SQL, PostgreSQL, Transformers, Gemini, n8n, Make" width="940">
+  <img src="tec-claro.svg" alt="AI · DATA · AUTOMATION · WEB. Python, JavaScript, TypeScript, React, Next.js, Vite, FastAPI, pandas, Plotly, Streamlit, SQL, PostgreSQL, OpenAI, Claude, Gemini, Transformers, n8n, Make" width="940">
 </picture>
 
-## <img src="ic-obra.svg" width="22" align="center" alt=""> Em desenvolvimento
+## <img src="ic-obra.svg" width="22" alt=""> Em desenvolvimento
 
-**Pertin**
+**Pertin**<br>
 Transformando localização em uma informação mais útil para imóveis e hospedagens.
 
-**ESG Extractor**
+**ESG Extractor**<br>
 Extraindo informações estruturadas de relatórios de sustentabilidade.
 
-**Foodie Vision**
+**Foodie Vision**<br>
 Explorando visão computacional aplicada a alimentos.
 
-## <img src="ic-lupa.svg" width="22" align="center" alt=""> Alguns projetos públicos
+## <img src="ic-lupa.svg" width="22" alt=""> Alguns projetos públicos
 
 [**Meu HackTown**](https://github.com/helo-labs/meu-hacktown) · planejamento e curadoria para o HackTown 2026
 
@@ -39,7 +39,7 @@ Explorando visão computacional aplicada a alimentos.
 <sub>
 
 EN · I like building things. Sometimes they solve real problems, sometimes they're just ideas I wanted to bring to life.
-
+<br><br>
 I mainly work with AI, data, automation, and web development.
 
 </sub>
