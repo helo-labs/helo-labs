@@ -1,0 +1,45 @@
+# <img src="ic-aceno.svg" width="26" align="center" alt=""> Oi, eu sou a Heloisa
+
+Gosto de criar coisas. Às vezes elas resolvem problemas reais, às vezes são só uma ideia que eu quis tirar do papel.
+
+Trabalho principalmente com IA, dados, automação e desenvolvimento web.
+
+## <img src="ic-ferramenta.svg" width="22" align="center" alt=""> Com o que eu construo
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="tec-escuro.svg">
+  <img src="tec-claro.svg" alt="AI · DATA · AUTOMATION · WEB. Python, JavaScript, TypeScript, React, Next.js, Vite, FastAPI, pandas, Plotly, Streamlit, SQL, PostgreSQL, Transformers, Gemini, n8n, Make" width="940">
+</picture>
+
+## <img src="ic-obra.svg" width="22" align="center" alt=""> Em desenvolvimento
+
+**Pertin**
+Transformando localização em uma informação mais útil para imóveis e hospedagens.
+
+**ESG Extractor**
+Extraindo informações estruturadas de relatórios de sustentabilidade.
+
+**Foodie Vision**
+Explorando visão computacional aplicada a alimentos.
+
+## <img src="ic-lupa.svg" width="22" align="center" alt=""> Alguns projetos públicos
+
+[**Meu HackTown**](https://github.com/helo-labs/meu-hacktown) · planejamento e curadoria para o HackTown 2026
+
+[**Alô Voice Agents Kit**](https://github.com/helo-labs/alo-voice-agents-kit) · kit para criar e testar agentes de voz
+
+[**CataLead**](https://github.com/helo-labs/catalead) · radar de comentários para quem vende pelo Instagram
+
+[**Coffee Insight**](https://github.com/helo-labs/coffee-insight) · análise exploratória de dados de vendas
+
+<br>
+
+[![Explorar todos os repositórios](https://img.shields.io/badge/explorar%20todos%20os%20reposit%C3%B3rios-1F2328?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helo-labs?tab=repositories)
+
+<sub>
+
+EN · I like building things. Sometimes they solve real problems, sometimes they're just ideas I wanted to bring to life.
+
+I mainly work with AI, data, automation, and web development.
+
+</sub>
