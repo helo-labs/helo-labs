@@ -11,7 +11,7 @@ Trabalho principalmente com IA, dados, automação e desenvolvimento web.
   <img src="tec-claro-v2.svg" alt="AI · DATA · AUTOMATION · WEB. Python, JavaScript, TypeScript, React, Next.js, Vite, FastAPI, pandas, Plotly, Streamlit, SQL, PostgreSQL, OpenAI, Claude, Gemini, Transformers, n8n, Make" width="940">
 </picture>
 
-## Em desenvolvimento
+## ಄ Em desenvolvimento
 
 **Pertin**<br>
 Transformando localização em uma informação mais útil para imóveis e hospedagens.
