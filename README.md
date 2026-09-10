@@ -13,13 +13,13 @@ Trabalho principalmente com IA, dados, automação e desenvolvimento web.
 
 ## ಄ Em desenvolvimento 
 
-**Pertin**<br>
+**Pertin**<br> em pré-incubação
 Transformando localização em uma informação mais útil para imóveis e hospedagens.
 
-**ESG Extractor**<br>
+**ESG Extractor**<br> em processo de licenciamento de software
 Extraindo informações estruturadas de relatórios de sustentabilidade.
 
-**Foodie Vision**<br>
+**Foodie Vision**<br> melhorando o treinamento com imagens
 Explorando visão computacional aplicada a alimentos.
 
 ## ☆ Alguns projetos públicos
