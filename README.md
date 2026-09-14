@@ -4,6 +4,8 @@ Gosto de criar coisas. Às vezes elas resolvem problemas reais, às vezes são s
 
 Trabalho principalmente com IA, dados, automação e desenvolvimento web.
 
+**Meu Portifólio** : https://helo-labs.github.io/portfolio/ <br>
+
 ## Com o que eu construo
 
 <picture>
